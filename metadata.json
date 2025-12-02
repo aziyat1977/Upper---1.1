@@ -1,0 +1,7 @@
+{
+  "name": "Conversation Survival Quest",
+  "description": "An interactive, adaptive CELTA-style TBL lesson platform for ESL students focusing on conversation rules and grammar.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
